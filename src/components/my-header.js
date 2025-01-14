@@ -62,7 +62,7 @@ export class Header extends LitElement {
                 </div>
                 <nav>
                     <ul>
-                        <li><a href="">GitHub</a></li>
+                        <li><a href="https://github.com/luisgonzalez2001/toDo_List_with_Lit">GitHub</a></li>
                     </ul>
                 </nav>
             </header>
